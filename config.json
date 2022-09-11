@@ -1,0 +1,6 @@
+{
+    "token": "MTAwMjY5NjU5MjU5MzI3Njk1OA.GmWHot.6eRG5Hr-JPsKGjeQVh6syNfOV-lmP_mdo6rI8w",
+    "prefix": "!",
+    "mongooseConnectionString": "",
+    "DB": "mongodb+srv://Zone:Zone@cluster0.z2bwm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
